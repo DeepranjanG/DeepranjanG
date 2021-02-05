@@ -1,6 +1,6 @@
 ### Here is what I'm working on.. 👋
 
-![gif from nerdy.dev](https://github.com/argyleink/argyleink/blob/master/argyleink-sm2.gif?raw=true)
+![gif from nerdy.dev](https://github.com/DeepranjanG/DeepranjanG/blob/main/AI.gif?raw=true)
 
 Here are some ideas to get you started:
 
