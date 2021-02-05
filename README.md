@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Kaggle.
 - 🤔 I’m looking for help with MlOps.
 - 💬 Ask me about anything.
-- 📫 How to reach me: [Gmail](kdeepu070@gmail.com)
+- 📫 How to reach me: [Gmail](mailto:kdeepu070@gmail.com)
 - 😄 Pronouns: His/Him
 - ⚡ Fun fact: Not Required
 
