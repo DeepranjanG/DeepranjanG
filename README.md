@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as Jr. Data Scientist at Ineuron.
-- 🌱 I’m currently learning various Deep Learing Techniques.
+- 🌱 I’m currently learning various Deep Learning Techniques.
 - 👯 I’m looking to collaborate on Kaggle.
 - 🤔 I’m looking for help with MlOps.
 - 💬 Ask me about anything.
