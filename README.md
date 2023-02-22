@@ -41,6 +41,20 @@ Here are some ideas to get you started:
 
 <br>
 
+## **CODING STATS**
+<p align = 'center'>
+    <img src='https://github-readme-stats-sigma-five.vercel.app/api?username=DeepranjanG&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
+    <img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DeepranjanG&show_icons=true&hide=php,html,typescript,css,markdown&theme=gotham&line_height=27&hide_border=true'/>
+</p>
+
+## **STREAK STATS**
+<p align = 'center'>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=DeepranjanG&theme=gotham&hide_border=true'>
+</p>
+
+
+<hr>
+
 ## Connect 🤝
 
 [![](https://img.shields.io/badge/Kaggle-00599C?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kumardeepu) &emsp;
