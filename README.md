@@ -1,8 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jvdboss7&label=Profile%20views&color=0e75b6&style=flat" alt="Jvdboss7" /> </p>
-<div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Data+Scientist%20@%20iNeuron'/>
-</div>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepranjanG&label=Profile%20views&color=0e75b6&style=flat" alt="DeepranjanG" /> </p>
 ### Here is what I'm working on.. 👋
 
 ![gif from nerdy.dev](https://github.com/DeepranjanG/DeepranjanG/blob/main/AI.gif?raw=true)
