@@ -52,9 +52,6 @@ Here are some ideas to get you started:
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=DeepranjanG&theme=gotham&hide_border=true'>
 </p>
 
-
-<hr>
-
 ## Connect 🤝
 
 [![](https://img.shields.io/badge/Kaggle-00599C?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kumardeepu) &emsp;
