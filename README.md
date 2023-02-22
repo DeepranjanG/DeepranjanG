@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepranjanG&label=Profile%20views&color=0e75b6&style=flat" alt="DeepranjanG" /> </p>
 ### Here is what I'm working on.. 👋
 
 ![gif from nerdy.dev](https://github.com/DeepranjanG/DeepranjanG/blob/main/AI.gif?raw=true)
@@ -58,4 +57,4 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Kaggle-00599C?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kumardeepu) &emsp;
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepranjang) &emsp;
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kdeepu070@gmail.com) &emsp; 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepranjanG&label=Profile%20views&color=0e75b6&style=flat" alt="DeepranjanG" /> </p>
