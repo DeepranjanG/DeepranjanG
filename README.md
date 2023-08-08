@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as Data Scientist at Ineuron.
+- 🔭 I’m currently working as Data Engineer @ DXC Technology.
 - 🌱 I’m currently learning various PySpark, Azure Data Factory, Azure Databricks, Azure Synapse.
 - 👯 I’m looking to collaborate on Kaggle.
 - 🤔 I’m looking for help with MlOps.
